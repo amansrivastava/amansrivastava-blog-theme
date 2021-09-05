@@ -45,6 +45,9 @@
     </div>
 
     {{#is "post"}}
+        <div class="footer-nav">
+            {{tags separator=" &nbsp;&bull;&nbsp; "}}
+        </div>
         <footer class="single-footer container small">
             <div class="single-footer-left">
                 {{#prev_post}}
@@ -54,9 +57,6 @@
                         </a>
                     </div>
                 {{/prev_post}}
-            </div>
-            <div class="footer-nav">
-                {{tags separator=" &bull; "}}
             </div>
             <div class="single-footer-middle">
                 <div class="single-footer-top">
