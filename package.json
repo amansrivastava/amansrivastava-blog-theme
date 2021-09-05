@@ -1,16 +1,16 @@
 {
     "name": "amansrivastava-blog-theme",
     "description": "Theme for blog amansrivastava.in",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "engines": {
         "ghost": ">=4.0.0",
         "ghost-api": "v4"
     },
     "license": "MIT",
     "author": {
-        "name": "Ghost Foundation",
-        "email": "hello@ghost.org",
-        "url": "https://ghost.org"
+        "name": "Aman Srivastava",
+        "email": "mailbox@amansrivastava.in",
+        "url": "https://amansrivastava.in"
     },
     "keywords": [
         "ghost",
