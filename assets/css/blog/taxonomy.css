@@ -8,3 +8,8 @@
     width: 90px;
     border-radius: 50%;
 }
+
+.tags-list {
+    margin-top: 30px;
+    font-size: 18px;
+}
